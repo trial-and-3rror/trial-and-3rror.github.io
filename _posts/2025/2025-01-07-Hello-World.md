@@ -39,7 +39,7 @@ My group of melanin-challenged friends meant that I grew up in a mostly white se
 
 At the age of 14, both puberty and life hit me.
 
-It also turns out that I was smart in school. Smart enough to get my parents for my parents to have *expectations* of me. While sometimes stressful, I enjoyed this new phase of life and big-brained my way into college to study Computer Science. I enjoyed university and the nascent field of machine learning so much that I stayed to do a PhD. My parents were well on board wth my plans after I assured them I had no interest of making a career in academia. 
+It also turns out that I was smart in school. Smart enough to get my parents for my parents to have *expectations* of me. While sometimes stressful, I enjoyed this new phase of life and big-brained my way into college to study Computer Science. I enjoyed university and the nascent field of machine learning so much that I stayed to do a PhD. My parents were well on board with my plans after I assured them I had no interest in making a career in academia. 
 
 
 ## Fitting In
@@ -48,7 +48,7 @@ My university is *very* international. This gave me the chance to, for the first
 
 **First-gen** humor was wildly different to mine. Conversations flowed really after the alcohol did and, for the most part, I felt I wasn't Indian enough for them to really consider hanging out with me in sober situations. 
 
-**Second-gens** seemed far more comfortable with themseles. They had grown up with other second-gen friends and enjoyed more frequent and deeper exchanges in both the local and Indian cultures. They had learned how to balance being Indian without the awkwardness I often felt being Indian among friends. They were far more comfortable with the hyphenated 'X-Indian' identity and appreciative of the desi-ness of other second-gens, built by attending cultural and religious events with people of similar age. 
+**Second-gens** seemed far more comfortable with themselves. They had grown up with other second-gen friends and enjoyed more frequent and deeper exchanges in both the local and Indian cultures. They had learned how to balance being Indian without the awkwardness I often felt being Indian among friends. They were far more comfortable with the hyphenated 'X-Indian' identity and appreciative of the desi-ness of other second-gens, built by attending cultural and religious events with people of similar age. 
 
 My limited involvement with/in Indian groups meant I never made those connections. My Indian-ness had always been a source of novelty to my friends and I was far less comfortable being both Indian with white people and white with Indians. 
 
@@ -59,7 +59,7 @@ Socially, at college, I defaulted back to what I was comfortable with. Just as a
 
 My gen-ness falls somewhere [between 1 and 2](https://en.wikipedia.org/wiki/Immigrant_generations), and will probably be rounded to 2 if looking for an integer. Underlying this is my relative discomfort with being Indian in public -- my Indianness has always been private and limited to my family. My lack of Indian-social-interaction meant that I grew up thinking I was an introvert. 
 
-I realize now that I was just uncomfortable being Indian and recognizing this has made me more look more carefully at myself when presented the opportunity to engage with other Indians. 
+I realize now that I was just uncomfortable being Indian and recognizing this has made me look more carefully at how I engage with other Indians. 
 
 
 # Where is this Going?
